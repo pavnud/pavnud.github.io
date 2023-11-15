@@ -1,0 +1,32 @@
+#myCanvas {
+  border-width: 1px;
+  /* border-style: dotted; */
+  border-style:double;
+  border-color: rgb(200, 198, 198);
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  color: #999999;
+}
+
+body {
+  background-color: #fff;
+  padding: 40px;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+}
+
+a {
+  color: #9872d6;
+  /* text-decoration: none; */
+}
+
+a:hover {
+  background-color: #e2f0f8;
+  border-radius: 2px;
+}
