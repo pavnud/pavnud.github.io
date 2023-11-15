@@ -2,7 +2,7 @@ var mainCanvas = document.getElementById("myCanvas");
 var mainContext = mainCanvas.getContext("2d");
 
 let nc = 30;
-mainCanvas.width = 9 * nc;
+mainCanvas.width = 9 * nc*3;
 mainCanvas.height = 16 * nc;
 
 var canvasWidth = mainCanvas.width;
